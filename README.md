@@ -23,7 +23,7 @@ conda activate yourenv
 pip install -r requirements.txt
 ```
 5.Open the python script and make necessary changes -
-**Add webdriver path**
+**Add webdriver path** and
 **Add download path**
 
 6.Run the script.
