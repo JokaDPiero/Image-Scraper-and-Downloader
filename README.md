@@ -8,7 +8,7 @@ You can also try with google or safari browser just download the chrome or safar
 ### Before running the script things you must do-
 1.Clone the repo using -
 ```bash
-git clone https://github.com/JokaDPiero/Flipkart-Price-Tracker.git
+git clone https://github.com/JokaDPiero/Image-Scraper-and-Downloader.git
 ```
 2.If you have anaconda installed create a new environment using -
 ```bash
